@@ -5,7 +5,7 @@ File Name: weather_data_utc.csv
 File URL: Released separately
 
 ## General notes
-The dataset contains historical weather forecasts for the wind park, from TODO (obfuscate): 01.11.2017 to 30.11.2018. 
+The dataset contains historical weather forecasts for the wind park. 
 
 The forecasts are made for 4 geographical zones within the wind park (codes 'NE | 'NW | 'SE | 'SW'), as well as for the whole park (code 'WP')
 
